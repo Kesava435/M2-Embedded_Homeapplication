@@ -9,9 +9,7 @@ The System will sense the temperature and switch the fan ONN and Off Accordingly
 Low cost and robust system.
 Modular Approach.
 Defining the System
-Software : The platform used to run this project code is visual studio code(version 1.57) and for circuit simulator we have to use SimulIDE software.
-Operating System : Windows 10
-Processor: Intel dual Core i5
+
 ## SWOT- Strengths, and Weakness, Opportunities Threats
  ### Strengths
 User Friendly and easy to use.
@@ -37,10 +35,10 @@ HOW :- By developing a embedded system which is user friendly and can be impleme
 ## Detail requirements
  ## High Level Requirements
 High Level Requirements	Description	Category	Status
-HLR1	User shall able to see the present Temperature	Technical	Implemented
-HLR2	Fan should automatically swtich off when temperature is low	Technical	Implemented
-HLR3	Fan should automatically swtich On when temperature is high	Technical	Implemented
-HLR4	User shall able to control the speed of Fan		Technical
+HLR1 |	User shall able to see the present Temperature	Technical	Implemented
+HLR2	|Fan should automatically swtich off when temperature is low	Technical	Implemented
+HLR3	|Fan should automatically swtich On when temperature is high	Technical	Implemented
+HLR4	|User shall able to control the speed of Fan		Technical
 ## Low Level Requirements
 Low Level Requirements	Description	Category	Status
 LLR1	Temperature should be dispaly on LCD Screen	Technical	Implemented
