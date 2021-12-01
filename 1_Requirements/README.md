@@ -51,6 +51,7 @@ HLR2	|Fan should automatically swtich off when temperature is low|	Technical	Imp
 HLR3	|Fan should automatically swtich On when temperature is high|	Technical|	Implemented|
 
 ## Low Level Requirements
-Low Level Requirements	Description	Category	Status
-LLR1	Temperature should be dispaly on LCD Screen	Technical	Implemented
-LLR2	If their is no passenger's the fan should be off	Technical	Future
+Low Level Requirements|	Description|	Category|	Status|
+|----------------------|:---------:|:--------:|:-----:|
+LLR1	|Temperature should be dispaly on LCD Screen|	Technical|	Implemented|
+
