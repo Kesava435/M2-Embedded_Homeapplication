@@ -75,6 +75,8 @@ Test ID|	Description|	Input|	Output|	Status|
 |04|	Temperature High|	Temp=30	|Fan=On	|PASS|
 |05|	LED ON|	Button= && Fan=1|	LED=1|	PASS|
 |06 |LED OFF|	Button=0 && Fan=0	|LED=0|	PASS|
+# simulation results
+[!}https://raw.githubusercontent.com/Kesava435/M2-Embedded_Homeapplication/main/5_Report/project%20output.png
 ## Bill of Materials:
 
 * Led-4 : Led   
