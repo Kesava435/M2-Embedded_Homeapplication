@@ -1,3 +1,5 @@
+
+[![CI](https://github.com/Kesava435/M2-Embedded_Homeapplication/actions/workflows/main.yml/badge.svg)](https://github.com/Kesava435/M2-Embedded_Homeapplication/actions/workflows/main.yml)
 # M2-Embedded_Homeapplication
 # Folder Structure
 |FOLDER|DESCRIPTION|
