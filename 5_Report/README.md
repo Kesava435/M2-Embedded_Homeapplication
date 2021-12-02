@@ -76,9 +76,12 @@ Test ID|	Description|	Input|	Output|	Status|
 |05|	LED ON|	Button= && Fan=1|	LED=1|	PASS|
 |06 |LED OFF|	Button=0 && Fan=0	|LED=0|	PASS|
 # simulation results
+<img width="511" alt="Output" src="https://user-images.githubusercontent.com/94446387/144372898-b9bd67dc-6e94-41ce-8f38-0bcb3914844d.png">
+
 ![output1](https://user-images.githubusercontent.com/94446387/144372438-9a23f36c-1e83-4fa7-afa8-efc6b04130be.png)
+
 <img width="635" alt="project output" src="https://user-images.githubusercontent.com/94446387/144372505-5cb6efd3-b988-4d5c-b9f3-4e1d7cd6c0d7.png">
-<img width="635" alt="project output" src="https://user-images.githubusercontent.com/94446387/144372766-e15d111b-3449-465a-a4ce-028d81362575.png">
+
 
 ## Bill of Materials:
 
