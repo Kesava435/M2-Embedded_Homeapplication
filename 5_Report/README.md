@@ -75,3 +75,11 @@ Test ID|	Description|	Input|	Output|	Status|
 |04|	Temperature High|	Temp=30	|Fan=On	|PASS|
 |05|	LED ON|	Button= && Fan=1|	LED=1|	PASS|
 |06 |LED OFF|	Button=0 && Fan=0	|LED=0|	PASS|
+## Bill of Materials:
+
+* Led-4 : Led   
+* Potentiometer-2 : Potentiometer 1 kΩ
+* Push-5 : Push   
+* Push-6 : Push   
+* Resistor-3 : Resistor 100 Ω
+* atmega328-1 : atmega328   
