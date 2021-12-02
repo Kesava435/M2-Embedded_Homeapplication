@@ -9,7 +9,7 @@
 # Project related configuration options
 #---------------------------------------------------------------------------
 DOXYFILE_ENCODING      = UTF-8
-PROJECT_NAME           = Temperature Measurement System for Sun
+PROJECT_NAME           = Temperature Measurement System for HOME
 PROJECT_NUMBER         = 
 PROJECT_BRIEF          =
 PROJECT_LOGO           =
