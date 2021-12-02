@@ -9,7 +9,7 @@
 |`5_Report`|Generated Report|
 |`6 ImagesandVideos`|All the images and program execution video|
 |`7_Other`|other information|
-# Requirements
+
  ## Research
 Automation is a necessity in our day to day life because it not only seeks to improve the quality of life for humans at both home and work.
 * It allows the distribution of both quality products and services to be made available at faster rates, reduces down time and human error.
