@@ -1,8 +1,7 @@
 #include <avr/io.h>
 #include "TASK2.H"
 
-main()
-{
+
 void InitADC()
 {
     ADMUX=(1<<REFS0); //ADref=AVcc
