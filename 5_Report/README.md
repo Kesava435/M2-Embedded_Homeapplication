@@ -1,5 +1,5 @@
 
-# Embedded Home Application
+# Embedded Home Application fan on and off
 # Folder Structure
 |FOLDER|DESCRIPTION|
 |:-----|:----------|
