@@ -1,7 +1,7 @@
 
 [![CI](https://github.com/Kesava435/M2-Embedded_Homeapplication/actions/workflows/main.yml/badge.svg)](https://github.com/Kesava435/M2-Embedded_Homeapplication/actions/workflows/main.yml)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/2703053336314426843282838ba4930c)](https://www.codacy.com/gh/Kesava435/M2-Embedded_Homeapplication/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Kesava435/M2-Embedded_Homeapplication&amp;utm_campaign=Badge_Grade)
-![Codacy Badge](https://api.codiga.io/project/30291/score/svg)
+![Codacy Badge](https://api.codiga.io/project/30291/status/svg)
 ![Codacy Badge](https://api.codiga.io/project/30291/score/svg)
 
 # M2-Embedded_Homeapplication
