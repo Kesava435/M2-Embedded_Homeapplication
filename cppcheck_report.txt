@@ -1,0 +1,8 @@
+3_Implementation/PROJECT.c:17:22: style: Variable 'tempdata' is assigned a value that is never used. [unreadVariable]
+    uint16_t tempdata=0;// temperature value
+                     ^
+3_Implementation/src/TASK4.c:11:38: style: Same expression on both sides of '|'. [duplicateExpression]
+    UCSR0C = (1<<UMSEL00)|(1<<UCSZ01)|(1<<UCSZ01);
+                                     ^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
+
