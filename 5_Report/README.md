@@ -8,7 +8,7 @@ Automation is a necessity in our day to day life because it not only seeks to im
 * The main aim of this project is to sense the temperature inside the  HOME using temperature sensor (LM 35) and it will give the signal to fan which is present above the    passenger's seat which will get switched ONN and OFF according to requirement .
 
 * The fan will get on and off based on the temperature inside the HOME at that moment .for Example:- if the temperature is high inside the HOME so the fan will switch on and if the temperature is low so fan will switch off Based on this our controller will onn and off the fan accordingly .
-*  The temperature sesnor (LM35) will sense the heat inside the bus and a LCD display will show the temperature. In our project we have used ATmega328 microcontroller along with temperature sensor, Push button, LED and LCD diplay,etc.
+*  The temperature sesnor (LM35) will sense the heat inside the bus and a LCD display will show the temperature. In our project we have used ATmega328 microcontroller along with temperature sensor, Push button, LED 
 
 # Features
 * The System will sense the temperature and switch the fan ONN and Off Accordingly.
