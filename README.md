@@ -48,7 +48,7 @@ By developing a embedded system which is user friendly and can be implemented wi
 High Level Requirements|	Description	|Category|	Status|
 |-----------------------|:---------:|:---------:|:-------------|
 HLR1 |	User shall able to see the present Temperature	|Technical|	Implemented|
-HLR2	|Fan should automatically swtich off when temperature is low|	Technical	Implemented|
+HLR2	|Fan should automatically swtich off when temperature is low|	Technical|	Implemented|
 HLR3	|Fan should automatically swtich On when temperature is high|	Technical|	Implemented|
 
 ## Low Level Requirements
