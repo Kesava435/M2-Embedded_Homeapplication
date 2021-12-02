@@ -6,10 +6,7 @@
 #include "TASK2.H"
 #include "TASK3.H"
 #include"TASK4.H"
-#include "TASK1.c"
-#include "TASK2.c"
-#include "TASK3.c"
-#include"TASK4.c"
+
 #include "ROJECT_CONFIG.h"
 
 int main(void)
